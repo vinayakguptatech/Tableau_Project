@@ -1,41 +1,99 @@
-# Electric Cars Dashboard (Flask + Tableau)
+# 📊 Tableau Sales Analysis Dashboard
 
-This project provides a simple Flask-based web app that embeds a Tableau dashboard.
+## 📌 Project Overview
 
-## How it works
-
-- `app.py` runs a lightweight Flask server.
-- `templates/index.html` is the landing page with a link to view the dashboard.
-- `templates/dashboard.html` is where your Tableau embed code goes.
-
-## Getting Started
-
-1. Install dependencies:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-2. Run the app:
-
-```bash
-python app.py
-```
-
-3. Open the browser and visit:
-
-```
-http://localhost:5000
-```
-
-4. Edit `templates/dashboard.html` and paste your Tableau embed snippet into the `<div id="tableauViz">` block.
+This project demonstrates my ability to transform raw data into actionable business insights using Tableau. The dashboard analyzes sales performance across different regions, categories, and time periods to support better decision-making.
 
 ---
 
-### Example Tableau embed snippet
+## 🎯 Objective
 
-```html
-<iframe src="https://public.tableau.com/views/YourWorkbook/YourView?:embed=y&:showVizHome=no" width="100%" height="100%" frameborder="0"></iframe>
-```
+* Analyze overall sales and profit trends
+* Identify top-performing regions and product categories
+* Detect loss-making areas
+* Provide insights for improving business performance
 
-Replace the URL with the one provided by Tableau for your dashboard.
+---
+
+## 📂 Dataset
+
+* Source: Sample Superstore Dataset (commonly used for Tableau projects)
+* The dataset contains:
+
+  * Sales
+  * Profit
+  * Region
+  * Category
+  * Order Date
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* Tableau (Data Visualization)
+* Microsoft Excel (Data Cleaning)
+
+---
+
+## 📈 Dashboard Preview
+
+![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Add+Your+Dashboard+Screenshot+Here)
+
+---
+
+## 🔍 Key Insights
+
+* 📌 The West region generated the highest sales among all regions
+* 📌 Technology category contributed the highest profit
+* 📌 Some products in the Furniture category showed consistent losses
+* 📌 Sales show an increasing trend over time, indicating business growth
+
+---
+
+## 📊 Features of Dashboard
+
+* Interactive filters for region and category
+* Region-wise and category-wise comparison
+* Time-series analysis of sales
+* Profit vs Sales visualization
+
+---
+
+## 💡 Business Recommendations
+
+* Focus more on high-performing regions like the West
+* Improve or discontinue loss-making products in Furniture
+* Increase marketing for profitable categories like Technology
+* Optimize pricing and discount strategies
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.twbx` file from this repository
+2. Open it in Tableau Desktop
+3. Use filters to explore the dashboard
+
+---
+
+## 📁 Project Structure
+
+Tableau_Project/
+│── data/
+│── dashboard.twbx
+│── images/
+│── README.md
+
+---
+
+## 👨‍💻 Author
+
+**Vinayak Gupta**
+Aspiring Data Analyst
+GitHub: https://github.com/vinayakguptatech
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please give it a ⭐ on GitHub!
