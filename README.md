@@ -37,7 +37,7 @@ This project demonstrates my ability to transform raw data into actionable busin
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Add+Your+Dashboard+Screenshot+Here)
+![Electric Cars Analytics Dashboard](image.png)
 
 ---
 
