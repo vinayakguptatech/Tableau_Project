@@ -76,25 +76,7 @@ This project demonstrates my ability to transform raw data into actionable busin
 
 ---
 
-## 📁 Project Structure
-
-Tableau_Project/
-│── data/
-│── dashboard.twbx
-│── images/
-│── README.md
-
----
-
-## 👨‍💻 Author
-
-**Vinayak Gupta**
-Aspiring Data Analyst
-GitHub: https://github.com/vinayakguptatech
-
----
-
 ## ⭐ Support
 
 If you found this project helpful, please give it a ⭐ on GitHub!
-whole readme tell me why image is not showing
+
